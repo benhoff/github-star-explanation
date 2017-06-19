@@ -4,10 +4,6 @@
 
 See [this blog post](https://benhoff.github.io/remembering-github-stars.html) for the reson why this repo exists.
 
-[discourse/discourse](https://github.com/discourse/discourse)
-
-Looking at adding comments to the blog using self hosting. Made by Jeff Atwood, same guy from StackOverflow
-
 [rfk/pyenchant](https://github.com/rfk/pyenchant)
 
 Spell checking for python. Used in a bot already. Interesting to bounce against the Perer Norvig's famous spell checking algorithm. http://norvig.com/spell-correct.html
@@ -87,3 +83,35 @@ Framework for building bot brains. Could be cool.
 [SylvainDe/DidYouMean-Python](https://github.com/SylvainDe/DidYouMean-Python)
 
 Module to have suggestions in case of errors. This guy reached out to me on Reddit. Really should help him clean up his repo. Cool idea.
+
+[jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+Good reference for creating jupyter notebooks
+
+[altair-viz/altair](https://github.com/altair-viz/altair)
+
+Visualaztion library for jupyter. Just really interested in data visualization.
+
+[scipy-lectures/scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes)
+
+Looks like there's some interesting things about manipulating images that might be cool
+
+[wbkd](https://github.com/wbkd/awesome-interactive-journalism)
+
+Applied visualization.
+
+[jbwhit/OSCON-2015](https://github.com/jbwhit/OSCON-2015)
+ 
+Interesting ideas on how to source control jupyter notebooks. Theres a youtube video of this talk.
+
+[jdwittenauer/ipythoon-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
+
+Examples of jupyter notebooks
+
+[nickgillian/grt](https://github.com/nickgillian/grt)
+
+gesture recognition toolkit
+
+
+
+
