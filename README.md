@@ -112,6 +112,16 @@ Examples of jupyter notebooks
 
 gesture recognition toolkit
 
+[Yelp/MOE](https://github.com/Yelp/MOE)
 
+There's a slidedeck and video that I want to checkout in the README that talks about Metric Optimization Engine.
+
+[rhiever/tpot](https://github.com/rhiever/tpot)
+
+Genetic programming with python sounds neat
+
+[openai/gym](https://github.com/openai/gym)
+
+Library for Reinforcement Learning
 
 
